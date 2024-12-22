@@ -1,4 +1,4 @@
-### Перевод на русский [README_RU.md]
+#### Перевод на русский [README_RU.md](README_RU.md)
 
 # GCC/Clang Built-in Functions Documentation
 
