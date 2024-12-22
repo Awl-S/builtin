@@ -1,5 +1,3 @@
-# bultin
-
 # GCC/Clang Built-in Functions Documentation
 
 ## Introduction
